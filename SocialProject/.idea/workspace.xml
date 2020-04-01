@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a694499b-ad90-4e4f-853e-49676c6f41fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZgOEIAwAq9sndquehcUzX4u9UH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a694499b-ad90-4e4f-853e-49676c6f41fe" name="Default Changelist" comment="" />
+      <created>1585257157588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585257157588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1909" y="79" key="SettingsEditor" timestamp="1585691734822">
+      <screen x="1440" y="-100" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="79" key="SettingsEditor/0.0.1440.900/1440.-100.1920.1080@1440.-100.1920.1080" timestamp="1585691734822" />
+    <state x="1909" y="133" key="SettingsEditor/0.0.1440.900/1440.-46.1920.1080@1440.-46.1920.1080" timestamp="1585259065406" />
+    <state x="2164" y="372" width="699" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585257306630">
+      <screen x="1440" y="-46" width="1920" height="1080" />
+    </state>
+    <state x="2164" y="372" width="699" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.900/1440.-46.1920.1080@1440.-46.1920.1080" timestamp="1585257306630" />
+  </component>
+</project>
